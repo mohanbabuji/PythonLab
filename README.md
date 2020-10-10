@@ -1,2 +1,2 @@
 # PythonLab
-This is the repository where all the python lab exercises are uploaded
+This is the repository where all my python lab exercises are uploaded
